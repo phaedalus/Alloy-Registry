@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "updated": "2026-01-10T00:00:00Z",
+
+  "compilers": [
+    {
+      "id": "messiah",
+      "repo": "phaedalus/Messiah",
+      "channel": "stable"
+    }
+  ]
+}
