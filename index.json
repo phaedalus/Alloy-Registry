@@ -1,0 +1,18 @@
+{
+	"schema": 1,
+	"updated": "2026-01-11T00:00:00Z",
+	
+	"compilers": [
+		{
+			"file": "messiah.json",
+			"repo": "https://github.com/Phaedalus/Messiah"
+		}
+	],
+	
+	"engines": [
+		{
+			"file": "malos.json",
+			"repo": "https://github.com/Phaedalus/Malos"
+		}
+	]
+}
