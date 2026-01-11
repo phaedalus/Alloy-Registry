@@ -1,1 +1,6 @@
-
+{
+	"engine": "malos",
+	"versions": [
+		"0.0.1"
+	]
+}
